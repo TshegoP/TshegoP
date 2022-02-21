@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![PSI Hack-Logo](https://user-images.githubusercontent.com/PSI-Logo.png)
+![PSI Hack-Logo](https://user-images.githubusercontent.com/100114561/154921177-40ebe307-cdf8-495e-9de8-43c6a673a65b.png)
+
 
